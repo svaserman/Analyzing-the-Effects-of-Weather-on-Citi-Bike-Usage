@@ -1,4 +1,4 @@
-# Understanding CitiBike Users and the Effect of Weather on Citi Bike usage 
+# Exploring the Effects of Weather on Citi Bike Usage
 
 #### Project Description:
 While Citi Bikes have become and an increasingly more popular and efficient mode of transportation, weather can certainly play a role in determining whether or not an individual would want to travel via bicycle. For this reason, my project aims to examine Citi Bike users and analyze the effects of weather on Citi Bike usage. 
@@ -20,8 +20,6 @@ While Citi Bikes have become and an increasingly more popular and efficient mode
 
 #### Climate Data Online Search: https://www.ncdc.noaa.gov/cdo-web/search
 - This site allows users to view past weather data based on date range and location. For this particular project, I will be using a weather station located in Central Park, NY, NY which will include daily records of High and Low Temperatures, Precipitation, Snow Fall, Snow Depth, Wind Speed, and Fog.
-
-#### Data: [CitiBike and Weather Data](files/CitiBikeData.zip)
 
 ## CitiBike Dataset Variables
 - Trip Duration (seconds)
