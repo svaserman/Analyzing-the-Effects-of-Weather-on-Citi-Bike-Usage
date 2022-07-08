@@ -1,4 +1,4 @@
-# Exploring the Effects of Weather on Citi Bike Usage
+# Analyzing the Effects of Weather on Citi Bike Usage
 
 #### Project Description:
 While Citi Bikes have become and an increasingly more popular and efficient mode of transportation, weather can certainly play a role in determining whether or not an individual would want to travel via bicycle. For this reason, my project aims to examine Citi Bike users and analyze the effects of weather on Citi Bike usage. 
